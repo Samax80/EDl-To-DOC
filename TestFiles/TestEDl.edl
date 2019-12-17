@@ -1,0 +1,22 @@
+TITLE: D2893811_trailer_Broadcast_Master
+FCM: NON-DROP FRAME
+
+000001  AX       NONE  C        00:55:04:04 00:55:12:10 00:00:00:00 00:00:08:06
+* FROM CLIP NAME: ANW2210_57_Play-Around-5-(60).wav
+AUD  3    
+
+000002  AX       NONE  C        00:55:16:03 00:55:45:01 00:00:08:06 00:00:37:04
+* FROM CLIP NAME: ANW2210_57_Play-Around-5-(60).wav
+AUD  3    
+
+000003  AX       NONE  C        00:55:45:01 00:55:49:09 00:00:36:04 00:00:40:12
+* FROM CLIP NAME: ANW2207_30_Devil-In-Disguise-4-(60).wav
+AUD       4
+
+000004  AX       NONE  C        00:55:49:09 00:55:53:03 00:00:40:12 00:00:44:06
+* FROM CLIP NAME: ANW2207_29_Devil-In-Disguise-3-(60).wav
+AUD       4
+
+000005  AX       NONE  C        00:55:53:03 00:55:58:22 00:00:44:06 00:00:50:01
+* FROM CLIP NAME: ANW2207_30_Devil-In-Disguise-4-(60).wav
+AUD       4
